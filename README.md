@@ -17,7 +17,6 @@ The performance of each classification algorithm was evaluated using various met
 This web application was developed using HTML, CSS, JavaScript, and PHP, and integrates with Google Teachable Machine and Chart.js libraries. The specific versions of each dependency are listed below:
 
 Google Teachable Machine: 1.0.0
-Chart.js: 3.3.2
 jQuery: 3.6.0
 Popper.js: 2.9.3
 Bootstrap: 5.0.1
@@ -25,7 +24,7 @@ Font Awesome: 5.15.3
 Note that some of these dependencies may have additional dependencies of their own, which are not listed here but are automatically installed when you install the main dependency.
 
 **How to Run**
-To run this project, you will need to install the required dependencies and download the dataset. Once the dependencies are installed, you can run the main.py file to train and test the classification algorithms. You can also modify the hyperparameters of the algorithms and the feature extraction techniques to experiment with different configurations.
+To run this project, you will need to install the required dependencies and download the dataset. Once the dependencies are installed, you can run the xampp and test the classification algorithms. You can also modify the hyperparameters of the algorithms and the feature extraction techniques to experiment with different configurations.
 
 **Acknowledgments**
 This project was inspired by the need to provide a simple and effective tool for detecting leaf diseases in plants. The dataset used in this project was obtained from various sources, including []. We acknowledge the contributions of the authors and organizations who provided the data and made it publicly available.
